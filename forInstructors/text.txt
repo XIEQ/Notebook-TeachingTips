@@ -1,1 +1,1 @@
-I know nothing about git merging
+I know a little more than nothing about git merging
